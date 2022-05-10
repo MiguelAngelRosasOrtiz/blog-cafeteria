@@ -233,7 +233,7 @@ img{
 .formulario{
     width: 90%;
     margin: -5rem auto 0 auto;
-    padding: 5rem;
+    padding: 1rem;
     background-color: var(--blanco);
 }
 .campo{
